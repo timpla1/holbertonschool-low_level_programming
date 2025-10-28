@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _isupper - prevent from conflict.
  *
+ * c: put an 'A' and an 'a'
  * Return: Always 0.
  */
 
