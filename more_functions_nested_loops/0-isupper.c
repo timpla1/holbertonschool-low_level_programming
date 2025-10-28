@@ -2,7 +2,7 @@
 
 /**
  * _isupper - prevent from conflict.
- * c - put an 'A' and an 'a'
+ * @c: put an 'A' and an 'a'
  *
  * Return: Always 0.
  */
