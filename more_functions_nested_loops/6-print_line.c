@@ -2,6 +2,7 @@
 
 /**
  * print_line - my first drawing !!
+ * @n: numbers of "_"
  *
  * Return: Always 0.
  */
