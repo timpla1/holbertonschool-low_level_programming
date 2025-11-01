@@ -21,11 +21,7 @@ int main(void)
 
 	printf("%s %d is", knee, n);
 
-	if (n < 0)
-	{
-	n = n * (-1);
-	}
-	if ((n % 10) < 6 && (n % 10) > 0)
+	if ((n % 10) < 6 && (n % 10) != 0)
 	{
 	printf(" %d %s\n", (n % 10), he);
 	}
