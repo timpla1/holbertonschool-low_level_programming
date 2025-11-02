@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _putchar - putchar(_putchar)
+ * main - putchar(_putchar)
  *
  * Return: Always 0.
  */
