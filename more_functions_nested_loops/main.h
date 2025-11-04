@@ -1,7 +1,7 @@
 #ifndef main_h
 #define main_h
 
-void print_square(int size);
+int _isupper(int c);
 
 int _putchar(char c);
 
