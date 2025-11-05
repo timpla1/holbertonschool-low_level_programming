@@ -31,7 +31,7 @@ void print_triangle(int size)
 
 
 	}
-	if (IMO == 0)
+	if (IMO <= 0)
 	{
 	_putchar('\n');
 	}
